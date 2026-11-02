@@ -146,7 +146,4 @@ Apache-2.0
 
 ## Team
 
-Akash H Pochagundi
-Subhiksha Rai K
-Sagar G R
-Sanjana H M
+Akash H Pochagundi | Subhiksha Rai K | Sagar G R | Sanjana H M
