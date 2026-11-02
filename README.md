@@ -6,12 +6,6 @@ CodeDoctorAI is a full-stack, genuine Python error diagnosis and repair applicat
 
 ---
 
-**THE LINK FOR THE APP**
-
-**https://codedoctor-ai-dhn4.onrender.com/**
-
-
-
 ## 🌟 Key Features
 
 - **Genuine IBM Bob AI Inference:** Calls IBM Bob's OpenAI-compatible inference endpoint (`/inference/v1/chat/completions`) server-side.
@@ -147,3 +141,12 @@ SyntaxError: '(' was never closed
 ## 📄 License
 
 Apache-2.0
+
+--
+
+## Team
+
+Akash H Pochagundi
+Subhiksha Rai K
+Sagar G R
+Sanjana H M
