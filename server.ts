@@ -287,7 +287,7 @@ app.post("/api/analyze", async (req, res) => {
   const model = rawModel && rawModel !== "pro" ? rawModel : "fast";
   const endpoint = `${baseUrl.replace(/\/+$/, "")}/chat/completions`;
 
-  const systemPrompt = `You are CodeDoctorAI, an expert Python code diagnostic AI for the IBM Bob 2.0 Hackathon.
+  const systemPrompt = `You are CodeDoctorAI, an expert Python code diagnostic AI.
 You analyze Python code and its corresponding error message to provide a precise, high-craft medical-style diagnosis and fix.
 You MUST reply STRICTLY with a valid JSON object matching this exact schema:
 {

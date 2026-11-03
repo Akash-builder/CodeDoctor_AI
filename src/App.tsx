@@ -218,9 +218,6 @@ export default function App() {
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 p-5 rounded-2xl bg-gradient-to-br from-slate-900 via-slate-900/90 to-sky-950/40 border border-slate-800 shadow-xl">
           <div className="space-y-1">
             <div className="flex items-center gap-2">
-              <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-sky-950 text-sky-300 border border-sky-800">
-                Official IBM Bob 2.0 Hackathon Track
-              </span>
               <span className="hidden sm:inline-block text-xs text-slate-500">•</span>
               <span className="text-xs text-amber-300 font-medium">Real-Time Python Diagnostics</span>
             </div>
@@ -416,7 +413,6 @@ export default function App() {
           <div className="flex items-center gap-2">
             <span className="font-semibold text-slate-300">CodeDoctorAI</span>
             <span>•</span>
-            <span>Built for IBM Bob 2.0 Hackathon</span>
           </div>
           <div className="flex items-center gap-4 text-[11px]">
             <span>Powered by IBM Bob Inference & Python 3 AST</span>

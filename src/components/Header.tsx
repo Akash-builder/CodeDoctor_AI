@@ -30,7 +30,7 @@ export const Header: React.FC<HeaderProps> = ({ status, onOpenConfigModal }) => 
               </span>
             </div>
             <p className="text-xs text-slate-400">
-              AI-Powered Python Code Error Doctor • <span className="text-slate-300 font-medium">IBM Bob 2.0 Hackathon</span>
+              AI-Powered Python Code Error Doctor 
             </p>
           </div>
         </div>

@@ -1,6 +1,6 @@
 # CodeDoctorAI 🩺🐍
 
-**AI-Powered Python Code Error Doctor • IBM Bob 2.0 Hackathon**
+**AI-Powered Python Code Error Doctor **
 
 CodeDoctorAI is a full-stack, genuine Python error diagnosis and repair application. It accepts problematic Python code alongside error messages/tracebacks and uses **IBM Bob’s Inference API** to deliver medical-style code diagnoses, beginner-friendly explanations, root-cause dissections, full corrected Python code, and actionable debugging tips.
 
